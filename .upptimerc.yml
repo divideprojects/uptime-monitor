@@ -1,6 +1,5 @@
-# Change these first
-owner: divideprojects # Your GitHub organization or username, where this repository lives
-repo: uptime-monitor # The name of this repository
+owner: divideprojects
+repo: uptime-monitor
 
 sites:
   - name: DivideProjects Website
@@ -15,10 +14,7 @@ sites:
     url: https://ping-back.divideprojects.com/alive
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.divideprojects.com
-  # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime Monitor
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
@@ -26,8 +22,15 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Telegram
+      href: https://t.me/$OWNER
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+
+workflowSchedule:
+  graphs: "5 */1 * * *"
+  responseTime: "0 */1 * * *"
+  staticSite: "0 1 * * *"
+  summary: "5 */1 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
