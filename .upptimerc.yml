@@ -27,10 +27,10 @@ status-website:
 
 
 workflowSchedule:
-  graphs: "5 */1 * * *"
+  graphs: "3 */1 * * *"
   responseTime: "0 */1 * * *"
   staticSite: "0 1 * * *"
   summary: "5 */1 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "*/5 * * * *"
+  uptime: "*/10 * * * *"
