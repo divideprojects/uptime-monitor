@@ -12,16 +12,16 @@ sites:
     url: https://hcaptcha-verifier.divideprojects.com/alive
   - name: ping-back API
     url: https://ping-back.divideprojects.com/alive
+  - name: Oracle Server
+    url: $ORACLE_SERVER
 
 status-website:
   cname: status.divideprojects.com
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/DivideProjects/.github/main/DivideProjects.png
   name: Uptime Monitor
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   theme: dark
   navbar:
-    - title: Status
-      href: /
     - title: Telegram
       href: https://t.me/$OWNER
 
