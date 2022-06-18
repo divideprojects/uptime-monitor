@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 124,
     "timeDay": 129,
-    "timeWeek": 124,
+    "timeWeek": 123,
     "timeMonth": 124,
     "timeYear": 124,
     "dailyMinutesDown": {}
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/publiclink-bot.divideprojects.com",
     "slug": "file-stream-bot",
     "status": "up",
-    "uptime": "99.58%",
+    "uptime": "99.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.58%",
-    "time": 348,
-    "timeDay": 323,
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
+    "time": 349,
+    "timeDay": 325,
     "timeWeek": 345,
-    "timeMonth": 348,
-    "timeYear": 348,
+    "timeMonth": 349,
+    "timeYear": 349,
     "dailyMinutesDown": {
       "2022-06-12": 45
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1133,
-    "timeDay": 1638,
-    "timeWeek": 1220,
-    "timeMonth": 1133,
-    "timeYear": 1133,
+    "time": 1139,
+    "timeDay": 1641,
+    "timeWeek": 1260,
+    "timeMonth": 1139,
+    "timeYear": 1139,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1392,
-    "timeDay": 1641,
-    "timeWeek": 1497,
-    "timeMonth": 1392,
-    "timeYear": 1392,
+    "time": 1404,
+    "timeDay": 1739,
+    "timeWeek": 1553,
+    "timeMonth": 1404,
+    "timeYear": 1404,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 540,
-    "timeDay": 378,
-    "timeWeek": 540,
-    "timeMonth": 540,
-    "timeYear": 540,
+    "time": 538,
+    "timeDay": 376,
+    "timeWeek": 538,
+    "timeMonth": 538,
+    "timeYear": 538,
     "dailyMinutesDown": {}
   }
 ]
