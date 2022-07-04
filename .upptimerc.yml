@@ -12,6 +12,8 @@ sites:
     url: https://ping-back.divideprojects.com/alive
   - name: Oracle Server
     url: $ORACLE_SERVER
+  - name: dependabot-auto-merger[bot]
+    url: $DEPENDABOT_AUTO_MERGER_VERCEL
 
 status-website:
   cname: status.divideprojects.com
