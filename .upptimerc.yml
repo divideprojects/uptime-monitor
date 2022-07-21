@@ -2,17 +2,17 @@ owner: divideprojects
 repo: uptime-monitor
 
 sites:
-  - name: DivideProjects.com
+  - name: "DivideProjects.com"
     url: https://divideprojects.com
-  - name: API: hCaptcha Verifier
+  - name: "API: hCaptcha Verifier"
     url: https://hcaptcha-verifier.divideprojects.com/alive
-  - name: API: ping-back
+  - name: "API: ping-back"
     url: https://ping-back.divideprojects.com/alive
-  - name: Oracle Server
+  - name: "Oracle Server"
     url: $ORACLE_SERVER
-  - name: TG Bot: Public Link 🔗 Robot
+  - name: "TG Bot: Public Link 🔗 Robot"
     url: https://publiclink-bot.divideprojects.com
-  - name: TG Bot: Alita_Robot
+  - name: "TG Bot: Alita_Robot"
     url: https://alita-robot.divideprojects.com
     headers:
       - "CF-Access-Client-Id: $CF_ACCESS_ID"
