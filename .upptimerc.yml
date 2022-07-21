@@ -2,28 +2,31 @@ owner: divideprojects
 repo: uptime-monitor
 
 sites:
-  - name: DivideProjects Website
+  - name: DivideProjects.com
     url: https://divideprojects.com
-  - name: FileStreamBot
-    url: https://publiclink-bot.divideprojects.com
-  - name: hCaptcha Verifier API
+  - name: API: hCaptcha Verifier
     url: https://hcaptcha-verifier.divideprojects.com/alive
-  - name: ping-back API
+  - name: API: ping-back
     url: https://ping-back.divideprojects.com/alive
   - name: Oracle Server
     url: $ORACLE_SERVER
-  - name: dependabot-auto-merger[bot]
-    url: $DEPENDABOT_AUTO_MERGER_VERCEL
+  - name: TG Bot: Public Link 🔗 Robot
+    url: https://publiclink-bot.divideprojects.com
+  - name: TG Bot: Alita_Robot
+    url: https://alita-robot.divideprojects.com
+    headers:
+      - "CF-Access-Client-Id: $CF_ACCESS_ID"
+      - "CF-Access-Client-Secret: $CF_ACCESS_SECRET"
 
 status-website:
   cname: status.divideprojects.com
   logoUrl: https://raw.githubusercontent.com/DivideProjects/.github/main/DivideProjects.png
-  name: Uptime Monitor
-  theme: dark
+  name: Status Monitor
   navbar:
     - title: Telegram
       href: https://t.me/$OWNER
-
+    - title: GitHub
+      href: https://github.com/$OWNER
 
 workflowSchedule:
   graphs: "3 */3 * * *"
