@@ -4,9 +4,9 @@
     "url": "https://divideprojects.com",
     "icon": "https://favicons.githubusercontent.com/divideprojects.com",
     "slug": "divide-projects-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 152,
     "timeMonth": 152,
     "timeYear": 152,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-27": 0
+    }
   },
   {
     "name": "API: hCaptcha Verifier",
     "url": "https://hcaptcha-verifier.divideprojects.com/alive",
     "icon": "https://favicons.githubusercontent.com/hcaptcha-verifier.divideprojects.com",
     "slug": "api-h-captcha-verifier",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 1155,
     "timeMonth": 1155,
     "timeYear": 1155,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-27": 0
+    }
   },
   {
     "name": "API: ping-back",
     "url": "https://ping-back.divideprojects.com/alive",
     "icon": "https://favicons.githubusercontent.com/ping-back.divideprojects.com",
     "slug": "api-ping-back",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +55,9 @@
     "timeWeek": 1505,
     "timeMonth": 1505,
     "timeYear": 1505,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-27": 0
+    }
   },
   {
     "name": "Oracle Server",
