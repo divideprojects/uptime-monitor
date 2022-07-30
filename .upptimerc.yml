@@ -11,7 +11,7 @@ sites:
   - name: "Oracle Server"
     url: $ORACLE_SERVER
   - name: "TG Bot: Public Link 🔗 Robot"
-    url: https://publiclink-bot.divideprojects.com
+    url: https://public-link-bot-dp.herokuapp.com
   - name: "TG Bot: Alita_Robot"
     url: https://alita-robot.divideprojects.com
     headers:
